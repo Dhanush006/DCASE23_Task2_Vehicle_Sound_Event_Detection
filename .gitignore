@@ -1,1 +1,3 @@
 data/dcase23_dataset/
+extracted_dataset/train
+extracted_dataset/test
